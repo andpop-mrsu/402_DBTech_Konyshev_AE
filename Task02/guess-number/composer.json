@@ -1,0 +1,24 @@
+{
+    "name": "ortemx/guess-number",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ortemx\\GuessNumber\\": "src/"
+        },
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    },
+    "bin": [
+        "bin/guess-number.php"
+    ],
+    "authors": [
+        {
+            "name": "ortemx",
+            "email": "printerq@yandex.ru"
+        }
+    ]
+}
