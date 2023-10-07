@@ -43,5 +43,5 @@
     * Запустить Командную строку и ввести "php guess-number.php".
 
 Ссылки
-Github: https://https://github.com/ortemx/guessnumber
-Packagist: https://packagist.org/packages/ortemx/guess-number
+* Github: https://https://github.com/ortemx/guessnumber
+* Packagist: https://packagist.org/packages/ortemx/guess-number
