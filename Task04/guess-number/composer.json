@@ -9,8 +9,9 @@
         },
         "files": [
             "src/Controller.php",
-            "src/View.php",
-            "src/GameModel.php"
+            "src/GameView.php",
+            "src/GameModel.php",
+            "src/Logs.php"
         ]
     },
     "bin": [
